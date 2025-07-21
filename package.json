@@ -1,6 +1,6 @@
 {
   "name": "cypress",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "chromeWebSecurity": "false",
   "main": "index.js",
